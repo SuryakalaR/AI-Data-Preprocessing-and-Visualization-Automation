@@ -1,4 +1,4 @@
-# AI-Powered Data Cleaner and Dashboard 📊🤖
+# AI-Powered Data Cleaner and Visualization 📊🤖
 
 This project is a Streamlit web application that combines a local Large Language Model (LLM) via Ollama with an always-on interactive dashboard. Upload a CSV and instantly explore it visually — then optionally let the AI summarize the dataset and generate custom preprocessing code for it.
 
